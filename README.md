@@ -113,8 +113,8 @@ Quipay uses a modular smart contract architecture for security, scalability, and
 
 ```bash
 # Clone the repository — use --depth 1 for a much faster download
-git clone --depth 1 https://github.com/LFGBanditLabs/Quipay.git
-cd Quipay
+git clone --depth 1 https://github.com/core-quipay/quipay-contracts.git
+cd quipay-contracts
 
 # Install dependencies
 npm install
@@ -231,7 +231,7 @@ Quipay/
 - **[Security Threat Model](docs/SECURITY_THREAT_MODEL.md)** - Formal analysis of protocol risks and mitigations
 - **[DAO Treasury Setup Guide](docs/DAO_TREASURY_SETUP.md)** - Multisig configuration for DAOs and enterprise clients
 - **[Design Document](docs/design.md)** - Technical architecture, roadmap & system design
-- **[GitHub Issues](https://github.com/LFGBanditLabs/Quipay/issues)** - Development tasks & progress
+- **[GitHub Issues](https://github.com/core-quipay/quipay-contracts/issues)** - Development tasks & progress
 
 ---
 
@@ -301,7 +301,7 @@ Enable workers to access earnings instantly as they complete work milestones
 - [ ] Testnet deployment
 - [ ] Security audit
 
-Track our progress: [View Task Board](https://github.com/LFGBanditLabs/Quipay/issues)
+Track our progress: [View Task Board](https://github.com/core-quipay/quipay-contracts/issues)
 
 ---
 
@@ -328,10 +328,10 @@ We welcome contributions! Quipay is building the future of payroll infrastructur
 
 ### Ways to Contribute
 
-- 🐛 **Report Bugs** - [Open an issue](https://github.com/LFGBanditLabs/Quipay/issues/new)
+- 🐛 **Report Bugs** - [Open an issue](https://github.com/core-quipay/quipay-contracts/issues/new)
 - 💡 **Suggest Features** - Share your ideas
 - 📝 **Improve Documentation** - Help others understand Quipay
-- 💻 **Submit PRs** - Check our [good first issues](https://github.com/LFGBanditLabs/Quipay/labels/good%20first%20issue)
+- 💻 **Submit PRs** - Check our [good first issues](https://github.com/core-quipay/quipay-contracts/labels/good%20first%20issue)
 
 See our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md)
 
@@ -358,10 +358,10 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-LFGBanditLabs%2FQuipay-181717?logo=github)](https://github.com/LFGBanditLabs/Quipay)
+[![GitHub](https://img.shields.io/badge/GitHub-core--quipay%2Fquipay--contracts-181717?logo=github)](https://github.com/core-quipay/quipay-contracts)
 [![Stellar](https://img.shields.io/badge/Stellar-Learn%20More-7D00FF?logo=stellar)](https://stellar.org)
 [![Soroban Docs](https://img.shields.io/badge/Soroban-Documentation-00D4FF)](https://developers.stellar.org/docs/build/smart-contracts)
-[![Issues](https://img.shields.io/github/issues/LFGBanditLabs/Quipay)](https://github.com/LFGBanditLabs/Quipay/issues)
+[![Issues](https://img.shields.io/github/issues/core-quipay/quipay-contracts)](https://github.com/core-quipay/quipay-contracts/issues)
 
 </div>
 
@@ -373,6 +373,6 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 _Empowering the future of work, one stream at a time_
 
-[⭐ Star us on GitHub](https://github.com/LFGBanditLabs/Quipay) • [🐦 Follow updates](#) • [💬 Join our community](#)
+[⭐ Star us on GitHub](https://github.com/core-quipay/quipay-contracts) • [🐦 Follow updates](#) • [💬 Join our community](#)
 
 </div>
